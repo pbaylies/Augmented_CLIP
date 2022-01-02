@@ -1,6 +1,6 @@
-#Train aug_clip against laion400m-embeddings found here: https://laion.ai/laion-400-open-dataset/ - note that this used the base ViT-B/32 CLIP model.
+## Train aug_clip against laion400m-embeddings found here: https://laion.ai/laion-400-open-dataset/ - note that this used the base ViT-B/32 CLIP model.
 
-##Sample notebook adapted from Sadnow's 360Diffusion repo, thanks to all involved!
+### Sample notebook adapted from Sadnow's 360Diffusion repo, thanks to all involved!
 
 **Latest revision: Beta 1.52 (10/11/21):**
 https://colab.research.google.com/github/sadnow/360Diffusion/blob/main/360Diffusion_Public.ipynb
