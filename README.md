@@ -1,5 +1,9 @@
 ## Train aug_clip against laion400m-embeddings found here: https://laion.ai/laion-400-open-dataset/ - note that this used the base ViT-B/32 CLIP model.
 
+![sample image](sample2.png)
+
+- Update - add a model with weights averaged from the other six, add simple averaging script.
+
 ![sample image](sample1.png)
 
 ### Sample notebook adapted from Sadnow's 360Diffusion repo, thanks to all involved!
